@@ -4,20 +4,22 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Olá,%20sou%20Carolina%20Adilino&fontColor=fontAlign=left&fontAlignY=40&fontSize=30)
 
-<p align="center">
-  <!-- Coluna 1: texto -->
-  <span style="display:inline-block; width:45%; text-align:left; vertical-align:top;">
-    <h3>Seja muito bem-vindo ao meu GitHub 🩷</h3>
-    <p>
-      Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, além de ter passado um semestre como monitora da matéria Circuitos e Técnicas Digitais.
-    </p>
-  </span>
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Coluna 1: texto -->
+    <td valign="top" style="width:50%; padding-right:20px;">
+      <h3>Seja muito bem-vindo ao meu GitHub 🩷</h3>
+      <p>
+        Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, além de ter passado um semestre como monitora da matéria Circuitos e Técnicas Digitais.
+      </p>
+    </td>
 
-  <!-- Coluna 2: imagem -->
-  <span style="display:inline-block; width:45%; vertical-align:top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" />
-  </span>
-</p>
+    <!-- Coluna 2: imagem -->
+    <td valign="top" style="width:50%; padding-left:20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
