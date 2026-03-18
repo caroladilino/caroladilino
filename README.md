@@ -1,8 +1,6 @@
 <h1 align="center">Olá, sou Carolina Adilino</h1>
 <h3 align="center">Graduanda de Ciência da Computação | Presidente da Pixel - Soluções digitais</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caroladilino&label=Profile%20views&color=0e75b6&style=flat" alt="caroladilino" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
