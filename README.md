@@ -6,7 +6,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="color:white;">
       <h3>Seja muito bem vindo a meu GitHub🩷</h3>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, além de ter passado um semestre como monitora da matéria Circuitos e Técnicas Digitais.<br>
