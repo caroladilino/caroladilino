@@ -13,7 +13,6 @@
         Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, além de ter passado um semestre como monitora da matéria Circuitos e Técnicas Digitais.
       </p>
     </td>
-
     <!-- Coluna 2: imagem -->
     <td valign="top" style="width:50%; padding-left:20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" />
