@@ -1,43 +1,51 @@
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Olá,%20sou%20Carolina%20Adilino&fontColor=ffffff&fontAlign=left&fontAlignY=40&fontSize=32&animation=fadeIn)
+
 <!-- -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Olá,%20sou%20Carolina%20Adilino&fontColor=fontAlign=left&fontAlignY=40&fontSize=30)
 
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- Coluna 1: texto -->
-    <td valign="top" style="width:50%; padding-right:20px;">
-      <h3>Seja muito bem-vindo ao meu GitHub 🩷</h3>
-      <p>
-        Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, além de ter passado um semestre como monitora da matéria Circuitos e Técnicas Digitais.
-      </p>
-    </td>
-    <!-- Coluna 2: imagem -->
-    <td valign="top" style="width:50%; padding-left:20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" />
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<h2>Seja bem vindo ao meu GitHub🩷</h2>
+<big>
+    Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da      graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, onde tive a oportunidade de comandar uma equique com mais de 30 pessoas e desenvolver um site para um laboratório do departamento de biologia da faculdade. Além disso, também passei um semestre como monitora da matéria Circuitos e Técnicas Digitais e participei de diversos projetos acadêmicos, como a organização da Semana Acadêmica da computação e a feira de cursos 2025.
+</big>
+
+<br>
+<br>
+
+<h3>Linguagens e ferramentas favoritas:</h3>
+
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+<br>
+
+<h3>Veja também:</h3>
+
+<div >
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" width="300" align="center"/>
+</div>
+
+<br>
 
 ![decor](https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=5&section=footer)
 
 <h3>Conecte-se comigo!</h3>
       <p>
-        Floriapolis - SC<br>
+        Florianópolis - SC<br>
         <a href="https://linkedin.com/in/carolina-adilino">linkedin.com/in/carolina-adilino</a><br>
         cmqadilino@gmail.com
       </p>
 
 <!-- 
+
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=100&section=footer)
 
 <img src="https://streak-stats.demolab.com/?user=caroladilino" />
