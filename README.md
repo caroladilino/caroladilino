@@ -8,7 +8,7 @@
 
 <h2>Seja bem vindo ao meu GitHub🩷</h2>
 <big>
-    Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da      graduação. Já atuei como desenvolvedora web e presidente da empresa júnior Pixel - Soluções digitais, onde tive a oportunidade de comandar uma equique com mais de 30 pessoas e desenvolver um site para um laboratório do departamento de biologia da faculdade. Além disso, também passei um semestre como monitora da matéria Circuitos e Técnicas Digitais e participei de diversos projetos acadêmicos, como a organização da Semana Acadêmica da computação e a feira de cursos 2025.
+    Sou graduanda em Ciência da Computação na UFSC, atualmente no quarto período da graduação. Já atuei como desenvolvedora web e presidente na empresa júnior Pixel - Soluções digitais, onde tive a oportunidade de liderar uma equipe com mais de 30 pessoas e desenvolver um site para um laboratório da faculdade. Além disso, também passei um semestre como monitora da matéria Circuitos e Técnicas Digitais e participei de diversos projetos acadêmicos, como a organização da Semana Acadêmica da computação e a feira de cursos 2025.
 </big>
 
 <br>
