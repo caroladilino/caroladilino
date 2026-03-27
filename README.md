@@ -27,11 +27,13 @@
 </p>
 <br>
 
+<!-- 
 <h3>Veja também:</h3>
 
 <div >
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" width="300" align="center"/>
 </div>
+-->
 
 <br>
 
