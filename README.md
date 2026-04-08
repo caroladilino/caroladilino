@@ -15,8 +15,6 @@
 <br>
 
 <h3>Linguagens e ferramentas favoritas:</h3>
-
-
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -25,17 +23,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
-<br>
 
-<!-- 
-<h3>Veja também:</h3>
-
-<div >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" width="300" align="center"/>
-</div>
--->
-
-<br>
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=caroladilino&layout=compact&langs_count=8&card_width=320" />
+  <br>
 
 ![decor](https://capsule-render.vercel.app/api?type=rect&color=0:fbc2eb,100:a6c1ee&height=5&section=footer)
 
@@ -46,11 +36,10 @@
         cmqadilino@gmail.com
       </p>
 
-<!-- 
+<!-- COMPONENTES PARA USAR
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=100&section=footer)
-
 <img src="https://streak-stats.demolab.com/?user=caroladilino" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" width="300" align="center"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroladilino)](https://github.com/anuraghazra/github-readme-stats)
 -->
