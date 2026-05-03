@@ -36,7 +36,7 @@
       </p>
 
 
-
+<!--
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=100&section=footer)
 <img src="https://streak-stats.demolab.com/?user=caroladilino" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caroladilino&show_icons=true&locale=en&layout=compact" width="300" align="center"/>
